@@ -9,3 +9,5 @@ classification. The grading of rice sample is done according to the size ,shape 
 classification accuracy is achieved using only 6 features, i.e. mean of RGB colors and 3 geometrical features. 
 Also image Pre-processing, Feature extraction, Image Acquisition, Filtering, Morphological operation and 
 segmentation are going to be perform to differentiate the grain
+
+![1-s2 0-S0168169921003045-gr1](https://user-images.githubusercontent.com/50474388/161377008-cb00123e-fe5a-4659-926b-f55c8f0045e3.jpg)
