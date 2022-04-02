@@ -1,5 +1,6 @@
 # feynn_Lab
-Internship in ML
+### Internship in ML
+### AI Product/Service Prototype Ideation
 In the present grain-identification and detection system type of grain and grain quality are identified manually 
 by visual inspection which is difficult and not accurate. In this paper we are focusing about the methods used 
 for detection of grain. An machine vision system is introduced which is used for grain type identification and 
